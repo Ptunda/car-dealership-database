@@ -7,8 +7,8 @@ Dealership Database is designed to manage and track vehicle inventory, sales con
 
 ## Technologies Used
 
-- Git Bash
-- MySQL Workbench: Database management system for persisting dealership data.
+- Git Bash 2.39.1.windows.1
+- MySQL: Database management system for persisting dealership data.
 
 ## Demo
 
