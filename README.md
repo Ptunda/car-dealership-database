@@ -13,7 +13,7 @@ Dealership Database is designed to manage and track vehicle inventory, sales con
 ## Demo
 
 <figure>
-    <img src = "dealershipdb.png">
+    <img src = "dealershipdb.png" height=500px>
     <figcaption><i>Database Diagram</i></figcaption>
 </figure>
 
